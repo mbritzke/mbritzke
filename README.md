@@ -3,8 +3,7 @@
 Sou o Matheus e gosto de codar enquanto tomo um chimarrão 🧉 :
 
 - 🔭 Trabalho com desenvolvimento back-end, principalmente com Java e Spring Boot.
-- 👯 Além do código também participo de um projeto do Instituto de Pesquisa Eldorado e o Instituto Caldeira para o ensino de programação.
 - 📚 Me formei em Bacharel de Ciênicas da Computação na PUCRS.
 - 🧙 Meu ultimo projetinho: https://github.com/mbritzke/merchant-api
-- 📫 Contato: matheusbritzke@gmail.com
+- 📫 Contatos: Abaixo da minha foto tem meus dois contatos, email e linkedIn, podemos conversar por lá!
 - ⚡ Fato curioso: Já tive um PolyStation (sim, POLYstation).
