@@ -2,8 +2,10 @@
 
 Sou o Matheus e gosto de codar enquanto tomo um chimarrão 🧉 :
 
-- 🔭 Trabalho com desenvolvimento back-end, principalmente com Java e Spring Boot.
-- 📚 Me formei em Bacharel de Ciênicas da Computação na PUCRS.
-- 🧙 Meu ultimo projetinho: https://github.com/mbritzke/merchant-api
-- 📫 Contatos: Abaixo da minha foto tem meus dois contatos, email e linkedIn, podemos conversar por lá!
-- ⚡ Fato curioso: Já tive um PolyStation (sim, POLYstation).
+- :telescope: Trabalho atualmente com desenvolvimento full stack, mas tenho grande experiência com desenvolvimento back-end (6 anos+);
+- :battery: Mas qual stack? Angular + Node.js (TS e JS) ou Angular + Spring (Javinha);
+- :books: Me formei em Bacharel de Ciênicas da Computação na PUCRS;
+- :sunglasses: Meu ultimo projetinho: https://github.com/mbritzke/merchant-api;
+- :suspect: Agora estou estudando mais sobre JavaScript e TypeScript;
+- :mailbox_with_mail: Contatos: Abaixo da minha foto tem meus dois contatos, email e linkedIn, podemos conversar por lá!
+- :sweat_smile: Fato curioso: Já tive um PolyStation (sim, POLYstation).
